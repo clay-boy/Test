@@ -9,6 +9,8 @@ background-size: cover;
     color: azure;text-indent: 20%
 }
 #hell{
-    color: white;text-;
+    color: white;text-size-adjust: 50%;
 }
-[
+.fail{
+    margin-top: 400px;font-size: large;
+}
